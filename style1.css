@@ -1,0 +1,58 @@
+
+
+* {
+	text-align: right;
+}
+body {
+	background-image: url(img2.jpg);
+	background-size: cover;
+}
+
+h2, p {
+	color: #BE5F7C;
+	text-align: center;
+	border: 10px solid rgba(0, 0, 255, 0.5);
+	border-width: 10px
+	cursor: pointer;
+}
+
+p {
+	color: black;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+
+}
+
+.kaalikas {
+	border: 5px dashed green;
+}
+
+#div1 {
+	background: rgba(0,0,255,0.5);
+}
+
+#div2 {
+	background: rgba(255,0,0,0.5);
+}
+
+img {
+	float: left;
+}
+
+footer {
+	text-align: center;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: 'Quicksand', sans-serif;
+	clear: both;
+}
+/*Selector {
+	Property: value;
+}'/'
